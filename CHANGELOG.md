@@ -8,7 +8,7 @@ This file documents the release history of XinDong.
 
 ---
 
-## [1.0.0] - 2026-11
+## [1.0] - 2026-11
 
 ### 🎉 首个正式版本 | First Stable Release
 
